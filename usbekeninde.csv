@@ -1,0 +1,321 @@
+﻿Bundesland;Stadt;Kreis / Landkreis;FreizügG/EU_m;FreizügG/EU_w; Niederlassungserlaubnis_m; Niederlassungserlaubnis_w;Befristete_AE_m;Befristete_AE_w;Ausbildung_m;Ausbildung_w;Erwerb_m;Erwerb_w;AE_human_m;AE_human_w;AE_family_m;AE_family_w;NVisa_m;NVisa_w;Antrag_m;Antrag_w;Duldung_m;Duldung_w;AEgestattung_m;AEgestattung_w;OhneAT_m;OhneAT_w
+Schleswig-Holstein;Flensburg; kreisfreie Stadt;0;0;0;5;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Schleswig-Holstein;Kiel; kreisfreie Stadt;0;0;10;10;10;15;0;5;0;0;5;5;5;5;0;0;0;0;0;0;0;0;5;0
+Schleswig-Holstein;Lübeck; kreisfreie Stadt;0;0;10;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Schleswig-Holstein;Dithmarschen; Landkreis;0;0;0;0;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Schleswig-Holstein;Nordfriesland; Landkreis;0;0;0;0;15;15;5;0;5;0;5;10;0;0;0;0;0;0;0;0;0;0;5;0
+Schleswig-Holstein;Pinneberg; Landkreis;0;0;10;10;25;30;0;0;5;0;15;20;5;5;0;0;0;5;0;0;0;0;5;0
+Schleswig-Holstein;Rendsburg-Eckernförde; Landkreis;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;5;0
+Schleswig-Holstein;Schleswig-Flensburg; Landkreis;0;0;0;0;5;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Schleswig-Holstein;Segeberg; Landkreis;0;0;5;10;5;10;0;5;0;0;5;10;0;0;0;0;0;0;0;0;0;0;0;5
+Schleswig-Holstein;Steinburg; Landkreis;0;0;0;0;0;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0
+Schleswig-Holstein;Stormarn; Landkreis;0;0;0;5;10;5;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0
+Hamburg;Hamburg; kreisfreie Stadt;0;0;60;65;80;75;25;15;15;15;30;20;10;25;0;0;15;25;5;0;0;0;15;5
+Niedersachsen;Braunschweig; kreisfreie Stadt;0;0;0;10;10;5;0;0;5;0;5;0;0;5;0;0;5;0;0;0;0;0;10;0
+Niedersachsen;Salzgitter; kreisfreie Stadt;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Wolfsburg; kreisfreie Stadt;0;0;5;0;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Goslar; Landkreis;0;0;0;0;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Northeim; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Niedersachsen;Wolfenbüttel; Landkreis;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Niedersachsen;Göttingen; Landkreis;0;0;5;10;15;20;5;5;5;0;0;0;5;15;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Region Hannover; Landkreis;0;0;60;80;50;40;30;10;10;10;0;0;10;15;0;0;10;15;0;0;0;0;15;5
+Niedersachsen;Diepholz; Landkreis;0;0;5;5;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;10;0
+Niedersachsen;Hameln-Pyrmont; Landkreis;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Hildesheim; Landkreis;0;0;5;5;5;5;0;0;0;0;0;0;0;5;0;0;0;5;0;0;0;0;0;0
+Niedersachsen;Holzminden; Landkreis;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Nienburg (Weser); Landkreis;0;0;0;0;5;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Schaumburg; Landkreis;0;0;0;5;5;5;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Cuxhaven; Landkreis;0;0;0;0;15;5;5;0;10;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Harburg; Landkreis;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Niedersachsen;Lüneburg; Landkreis;0;0;5;5;5;5;0;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Osterholz; Landkreis;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Rotenburg (Wümme); Landkreis;0;0;0;0;10;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Stade; Landkreis;0;0;0;0;5;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Uelzen; Landkreis;0;0;5;0;5;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Verden; Landkreis;0;0;5;5;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Delmenhorst; kreisfreie Stadt;0;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Niedersachsen;Oldenburg (Oldenburg); kreisfreie Stadt;0;0;15;10;10;10;0;0;5;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Osnabrück; kreisfreie Stadt;0;0;10;15;10;10;0;5;0;0;0;0;5;5;0;0;0;0;0;0;0;0;5;0
+Niedersachsen;Ammerland; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Aurich; Landkreis;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Niedersachsen;Cloppenburg; Landkreis;0;0;5;0;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Emsland; Landkreis;0;0;0;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Niedersachsen;Grafschaft Bentheim; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;0
+Niedersachsen;Oldenburg; Landkreis;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Osnabrück; Landkreis;0;0;10;15;0;5;0;0;0;0;0;0;0;5;0;0;0;5;0;0;0;0;5;0
+Niedersachsen;Vechta; Landkreis;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Niedersachsen;Wesermarsch; Landkreis;0;0;0;5;5;5;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bremen;Bremen; kreisfreie Stadt;0;0;30;40;50;45;15;10;10;5;5;0;20;30;0;0;5;5;0;0;0;0;5;5
+Bremen;Bremerhaven; kreisfreie Stadt;0;0;5;5;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Düsseldorf; kreisfreie Stadt;0;5;45;60;15;25;5;5;5;5;5;10;5;10;0;0;10;15;0;0;0;0;10;5
+Nordrhein-Westfalen;Duisburg; kreisfreie Stadt;0;0;10;25;15;10;5;0;5;0;10;5;0;5;0;0;0;0;0;0;0;0;10;5
+Nordrhein-Westfalen;Essen; kreisfreie Stadt;0;0;30;30;15;20;5;5;0;0;5;0;5;10;0;5;5;5;0;0;5;5;10;5
+Nordrhein-Westfalen;Krefeld; kreisfreie Stadt;0;0;10;10;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Mönchengladbach; kreisfreie Stadt;0;0;10;10;10;5;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;5;0
+Nordrhein-Westfalen;Mülheim an der Ruhr; kreisfreie Stadt;0;0;5;10;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Oberhausen; kreisfreie Stadt;0;0;5;5;0;10;0;0;0;0;0;5;0;0;0;5;0;0;0;0;0;0;5;0
+Nordrhein-Westfalen;Solingen; kreisfreie Stadt;0;0;10;10;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Wuppertal; kreisfreie Stadt;0;0;30;30;10;5;5;0;0;0;0;0;0;0;0;0;5;0;0;5;0;0;5;5
+Nordrhein-Westfalen;Kleve; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;5;0
+Nordrhein-Westfalen;Mettmann; Landkreis;0;0;20;25;5;10;0;0;0;0;5;5;0;0;0;5;5;5;5;0;0;0;0;0
+Nordrhein-Westfalen;Rhein-Kreis Neuss;;0;0;5;5;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;5;0;0
+Nordrhein-Westfalen;Viersen; Landkreis;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0
+Nordrhein-Westfalen;Wesel; Landkreis;0;0;5;5;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;5;0
+Nordrhein-Westfalen;Bonn; kreisfreie Stadt;0;0;25;40;15;20;10;15;5;5;0;0;0;5;0;0;5;5;0;0;0;5;5;5
+Nordrhein-Westfalen;Köln; kreisfreie Stadt;0;0;45;65;30;35;5;10;10;5;10;15;5;10;0;0;15;15;5;5;5;5;15;5
+Nordrhein-Westfalen;Leverkusen; kreisfreie Stadt;0;0;10;15;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Städteregion Aachen; Landkreis;0;0;15;25;25;15;15;5;5;0;0;0;5;5;0;5;10;5;0;5;0;5;5;0
+Nordrhein-Westfalen;Düren; Landkreis;0;0;5;0;5;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;5;0
+Nordrhein-Westfalen;Rhein-Erft-Kreis;;0;0;10;15;10;5;5;0;5;0;0;5;0;0;0;0;0;5;5;0;0;0;5;0
+Nordrhein-Westfalen;Euskirchen; Landkreis;0;0;0;0;0;5;0;0;0;0;0;5;0;0;0;0;5;0;0;0;5;0;0;0
+Nordrhein-Westfalen;Heinsberg; Landkreis;0;0;5;5;0;5;0;0;0;0;0;5;0;0;0;5;0;0;5;0;5;5;5;5
+Nordrhein-Westfalen;Oberbergischer Kreis;;0;0;5;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;5;0;0;0;0;0
+Nordrhein-Westfalen;Rheinisch-Bergischer Kreis;;0;0;5;5;10;5;0;0;0;0;10;5;0;0;0;0;0;0;0;5;0;0;0;0
+Nordrhein-Westfalen;Rhein-Sieg-Kreis;;0;0;10;20;15;15;5;5;0;0;10;5;5;5;0;0;5;5;5;0;0;0;5;0
+Nordrhein-Westfalen;Bottrop; kreisfreie Stadt;0;0;0;0;5;5;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Gelsenkirchen; kreisfreie Stadt;0;0;5;10;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Münster; kreisfreie Stadt;0;0;5;10;10;5;5;0;5;0;0;0;0;0;0;0;5;5;0;0;0;0;10;0
+Nordrhein-Westfalen;Borken; Landkreis;0;0;5;0;10;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Coesfeld; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;5;0
+Nordrhein-Westfalen;Recklinghausen; Landkreis;0;0;5;10;10;15;0;0;0;0;5;15;0;5;0;0;0;5;0;0;0;0;5;5
+Nordrhein-Westfalen;Steinfurt; Landkreis;0;0;0;5;15;10;5;0;0;0;10;10;0;0;0;0;5;0;0;0;0;0;20;0
+Nordrhein-Westfalen;Warendorf; Landkreis;0;0;5;5;5;10;0;0;0;0;5;5;0;5;0;0;0;5;0;0;5;5;0;0
+Nordrhein-Westfalen;Bielefeld; kreisfreie Stadt;0;0;5;15;10;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;5;0
+Nordrhein-Westfalen;Gütersloh; Landkreis;0;0;0;5;5;5;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Herford; Landkreis;0;0;10;5;10;5;5;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Lippe; Landkreis;0;0;5;5;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;5;0
+Nordrhein-Westfalen;Minden-Lübbecke; Landkreis;0;0;5;0;10;15;0;0;0;0;5;5;0;5;0;0;0;0;5;0;0;0;0;0
+Nordrhein-Westfalen;Paderborn; Landkreis;0;0;10;10;5;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Bochum; kreisfreie Stadt;0;0;10;15;25;15;15;5;0;0;0;0;5;10;0;0;10;5;0;0;0;0;10;5
+Nordrhein-Westfalen;Dortmund; kreisfreie Stadt;0;5;20;20;20;15;10;0;5;0;0;0;5;10;0;0;0;5;0;0;0;0;5;5
+Nordrhein-Westfalen;Hagen; kreisfreie Stadt;0;0;0;5;5;5;0;0;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Hamm; kreisfreie Stadt;0;0;5;5;10;10;0;0;5;0;5;5;0;5;0;0;0;0;0;0;0;0;5;5
+Nordrhein-Westfalen;Herne; kreisfreie Stadt;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;5;5;0;0;0;0;0;0
+Nordrhein-Westfalen;Ennepe-Ruhr-Kreis;;0;0;5;10;15;5;0;0;5;0;5;0;5;0;0;0;5;5;0;0;0;0;0;5
+Nordrhein-Westfalen;Hochsauerlandkreis;;0;0;5;5;5;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;5;0
+Nordrhein-Westfalen;Märkischer Kreis;;0;0;5;5;15;10;0;0;0;0;10;5;0;5;0;0;0;5;0;0;0;0;5;0
+Nordrhein-Westfalen;Olpe; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Siegen-Wittgenstein; Landkreis;0;0;10;10;20;15;5;0;5;0;5;5;5;10;0;0;0;5;0;0;5;5;5;0
+Nordrhein-Westfalen;Soest; Landkreis;0;0;0;0;10;10;5;0;0;0;5;5;0;5;0;0;5;0;0;0;0;0;0;0
+Nordrhein-Westfalen;Unna; Landkreis;0;0;5;5;5;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0
+Hessen;Darmstadt; kreisfreie Stadt;0;0;10;10;10;10;5;5;0;0;0;0;5;0;0;0;0;5;0;0;0;0;5;0
+Hessen;Frankfurt am Main; kreisfreie Stadt;0;0;55;55;60;80;25;25;15;10;5;5;15;35;0;5;15;15;0;0;0;0;20;15
+Hessen;Offenbach am Main; kreisfreie Stadt;0;0;5;5;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Hessen;Wiesbaden; kreisfreie Stadt;0;0;10;20;15;10;0;0;5;0;0;0;10;10;0;0;5;5;0;0;0;0;0;0
+Hessen;Bergstraße; Landkreis;0;0;10;10;5;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Hessen;Darmstadt-Dieburg; Landkreis;0;0;0;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Hessen;Groß-Gerau; Landkreis;0;0;5;10;10;10;5;5;0;0;0;0;5;5;0;0;0;0;0;0;0;0;5;0
+Hessen;Hochtaunuskreis;;0;0;15;20;15;15;5;0;5;0;0;0;0;10;0;0;0;5;0;0;0;0;0;5
+Hessen;Main-Kinzig-Kreis;;0;0;10;20;10;10;5;0;0;0;0;0;0;10;0;0;0;0;0;0;0;0;0;0
+Hessen;Main-Taunus-Kreis;;0;0;5;10;10;10;0;0;5;0;0;0;5;10;0;0;5;0;0;0;0;0;5;5
+Hessen;Offenbach; Landkreis;0;0;10;15;10;10;0;0;5;0;0;0;5;10;0;0;0;5;0;0;0;0;0;0
+Hessen;Rheingau-Taunus-Kreis;;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+Hessen;Wetteraukreis;;0;0;15;20;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;15;0
+Hessen;Gießen; Landkreis;0;0;10;5;15;15;5;0;5;0;0;0;10;10;0;0;0;0;0;0;0;0;5;0
+Hessen;Lahn-Dill-Kreis;;0;0;10;15;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0
+Hessen;Limburg-Weilburg; Landkreis;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Hessen;Marburg-Biedenkopf; Landkreis;0;0;5;5;15;15;10;10;0;0;0;0;0;5;0;0;5;0;0;0;0;0;5;0
+Hessen;Vogelsbergkreis;;0;0;5;5;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;5;0
+Hessen;Kassel; kreisfreie Stadt;0;0;10;10;10;10;5;0;0;0;0;0;0;5;0;0;5;5;0;0;0;0;0;0
+Hessen;Fulda; Landkreis;0;0;5;5;10;5;0;0;0;0;5;0;0;0;0;0;0;5;0;0;0;0;5;0
+Hessen;Schwalm-Eder-Kreis;;0;0;5;0;5;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;5;0
+Hessen;Waldeck-Frankenberg; Landkreis;0;0;5;10;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0
+Hessen;Werra-Meißner-Kreis;;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Koblenz; kreisfreie Stadt;0;0;5;10;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Ahrweiler; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Altenkirchen (Westerwald); Landkreis;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Bad Kreuznach; Landkreis;0;0;5;10;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;5;0
+Rheinland-Pfalz;Mayen-Koblenz; Landkreis;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Neuwied; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Rhein-Hunsrück-Kreis;;0;0;5;0;5;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;5;5
+Rheinland-Pfalz;Rhein-Lahn-Kreis;;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Rheinland-Pfalz;Westerwaldkreis;;0;0;5;5;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Trier; kreisfreie Stadt;0;0;10;5;10;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Bernkastel-Wittlich; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Eifelkreis Bitburg-Prüm;;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Frankenthal (Pfalz); kreisfreie Stadt;0;0;0;0;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Kaiserslautern; kreisfreie Stadt;0;0;10;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Ludwigshafen am Rhein; kreisfreie Stadt;0;0;5;5;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Mainz; kreisfreie Stadt;0;0;25;20;10;20;5;5;0;0;0;0;5;10;0;0;5;5;0;0;0;0;0;0
+Rheinland-Pfalz;Pirmasens; kreisfreie Stadt;0;0;0;0;0;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Speyer; kreisfreie Stadt;0;0;5;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Worms; kreisfreie Stadt;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Zweibrücken; kreisfreie Stadt;0;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Alzey-Worms; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Rheinland-Pfalz;Bad Dürkheim; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Rheinland-Pfalz;Germersheim; Landkreis;0;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Rheinland-Pfalz;Kaiserslautern; Landkreis;0;0;0;0;5;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Kusel; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rheinland-Pfalz;Mainz-Bingen; Landkreis;0;0;10;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Stuttgart; kreisfreie Stadt;0;0;15;30;15;15;5;5;10;0;0;0;5;10;0;0;10;15;0;0;0;0;5;0
+Baden-Württemberg;Böblingen; Landkreis;0;0;5;10;15;25;0;0;0;0;10;10;5;10;0;0;5;0;0;0;0;0;0;0
+Baden-Württemberg;Esslingen; Landkreis;0;5;5;10;5;10;0;5;0;0;0;0;0;5;0;0;5;0;0;0;0;0;5;0
+Baden-Württemberg;Göppingen; Landkreis;0;0;5;5;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;5;0
+Baden-Württemberg;Ludwigsburg; Landkreis;0;5;5;10;10;15;0;0;5;0;5;0;5;10;0;0;5;0;0;0;0;0;5;5
+Baden-Württemberg;Rems-Murr-Kreis;;0;0;10;20;15;10;5;5;5;0;5;0;5;10;0;0;0;5;0;0;0;0;5;0
+Baden-Württemberg;Heilbronn; kreisfreie Stadt;0;0;5;10;10;5;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;5;0
+Baden-Württemberg;Heilbronn; Landkreis;0;0;5;5;5;5;0;0;5;0;0;0;0;5;0;0;0;5;0;0;0;0;0;0
+Baden-Württemberg;Hohenlohekreis;;0;0;5;10;5;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Schwäbisch Hall; Landkreis;0;0;5;5;10;10;0;0;5;0;0;0;5;10;0;0;0;0;0;0;0;0;5;0
+Baden-Württemberg;Main-Tauber-Kreis;;0;0;0;0;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;5;0
+Baden-Württemberg;Heidenheim; Landkreis;0;0;0;5;5;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;10;5
+Baden-Württemberg;Ostalbkreis;;0;0;5;5;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Baden-Baden; kreisfreie Stadt;0;0;5;20;5;5;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Baden-Württemberg;Karlsruhe; kreisfreie Stadt;0;0;30;40;10;20;0;0;5;5;0;5;5;10;0;0;0;0;0;0;0;0;5;0
+Baden-Württemberg;Karlsruhe; Landkreis;0;0;10;20;5;10;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;15;0
+Baden-Württemberg;Rastatt; Landkreis;0;0;5;10;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Heidelberg; kreisfreie Stadt;0;0;5;10;10;10;0;5;5;0;0;0;5;5;0;0;5;5;0;0;0;0;0;0
+Baden-Württemberg;Mannheim; kreisfreie Stadt;0;0;10;15;15;5;0;0;10;0;0;0;5;5;0;0;5;5;0;0;0;0;10;5
+Baden-Württemberg;Neckar-Odenwald-Kreis;;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Rhein-Neckar-Kreis;;0;0;10;10;5;15;0;0;0;0;0;0;5;10;0;0;5;5;0;0;0;0;5;5
+Baden-Württemberg;Pforzheim; kreisfreie Stadt;0;0;10;10;5;10;0;5;0;0;0;5;0;5;0;0;5;5;0;0;0;0;10;0
+Baden-Württemberg;Calw; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Enzkreis;;0;0;0;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Baden-Württemberg;Freudenstadt; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Freiburg im Breisgau; kreisfreie Stadt;0;0;5;5;5;10;5;5;5;0;0;0;0;0;0;0;5;5;0;0;0;0;0;0
+Baden-Württemberg;Breisgau-Hochschwarzwald; Landkreis;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;5;0
+Baden-Württemberg;Emmendingen; Landkreis;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+Baden-Württemberg;Ortenaukreis;;0;0;10;15;30;10;0;0;25;0;0;5;5;5;0;0;5;5;0;0;0;0;25;15
+Baden-Württemberg;Rottweil; Landkreis;0;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Schwarzwald-Baar-Kreis;;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Tuttlingen; Landkreis;0;0;5;5;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;5;0
+Baden-Württemberg;Konstanz; Landkreis;0;0;0;5;5;5;0;0;5;0;0;0;0;5;0;0;0;0;0;0;0;0;5;5
+Baden-Württemberg;Lörrach; Landkreis;0;0;5;10;5;5;0;0;5;0;0;0;0;5;0;0;0;0;0;0;0;0;0;5
+Baden-Württemberg;Waldshut; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Baden-Württemberg;Reutlingen; Landkreis;0;0;5;10;10;5;0;0;5;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Tübingen; Landkreis;0;0;5;5;10;10;5;0;5;5;0;0;0;5;0;0;0;0;0;0;0;0;5;0
+Baden-Württemberg;Zollernalbkreis;;0;0;5;5;5;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Baden-Württemberg;Ulm; kreisfreie Stadt;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Alb-Donau-Kreis;;0;0;5;5;5;10;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Biberach; Landkreis;0;0;5;5;10;5;5;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Bodenseekreis;;0;0;5;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Baden-Württemberg;Ravensburg; Landkreis;0;0;5;5;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Baden-Württemberg;Sigmaringen; Landkreis;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Bayern;Ingolstadt; kreisfreie Stadt;0;0;5;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;München; kreisfreie Stadt;0;0;75;95;125;135;50;25;35;35;5;5;40;70;0;0;40;40;5;5;0;0;55;40
+Bayern;Rosenheim; kreisfreie Stadt;0;0;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Altötting; Landkreis;0;0;0;5;5;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Berchtesgadener Land; Landkreis;0;0;0;0;0;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Bad Tölz-Wolfratshausen; Landkreis;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Dachau; Landkreis;0;0;5;5;5;5;0;0;0;0;0;0;5;5;0;0;5;0;0;0;0;0;0;0
+Bayern;Ebersberg; Landkreis;0;0;0;5;5;5;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0
+Bayern;Eichstätt; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+Bayern;Erding; Landkreis;0;0;5;0;5;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Freising; Landkreis;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;5;5;0;0;0;0;10;0
+Bayern;Fürstenfeldbruck; Landkreis;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Garmisch-Partenkirchen; Landkreis;0;0;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Bayern;Miesbach; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Bayern;Mühldorf am Inn; Landkreis;0;0;0;0;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;München; Landkreis;0;0;15;10;25;25;5;10;5;0;5;0;5;15;0;0;0;0;0;0;0;0;5;10
+Bayern;Neuburg-Schrobenhausen; Landkreis;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Pfaffenhofen an der Ilm; Landkreis;0;0;0;0;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Rosenheim; Landkreis;0;0;0;5;5;5;5;0;0;0;0;0;0;5;0;0;5;5;0;0;0;0;0;0
+Bayern;Starnberg; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0
+Bayern;Landshut; kreisfreie Stadt;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Passau; kreisfreie Stadt;0;0;5;5;10;10;0;0;5;0;0;0;5;5;0;0;5;0;0;0;0;0;5;0
+Bayern;Straubing; kreisfreie Stadt;0;0;5;5;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Deggendorf; Landkreis;0;0;5;5;5;5;5;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Freyung-Grafenau; Landkreis;0;0;0;0;5;5;0;0;5;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Kelheim; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Landshut; Landkreis;0;0;0;5;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Passau; Landkreis;0;0;5;0;10;15;5;0;5;0;0;0;0;10;0;0;0;5;0;0;0;0;5;5
+Bayern;Rottal-Inn; Landkreis;0;0;0;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Amberg; kreisfreie Stadt;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Regensburg; kreisfreie Stadt;0;0;5;10;5;5;0;0;0;0;0;0;0;5;0;0;10;5;0;0;0;0;5;0
+Bayern;Weiden in der Oberpfalz; kreisfreie Stadt;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Amberg-Sulzbach; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+Bayern;Neumarkt in der Oberpfalz; Landkreis;0;0;0;0;5;5;0;0;5;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Neustadt an der Waldnaab; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Bayern;Schwandorf; Landkreis;0;0;5;5;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Bamberg; kreisfreie Stadt;0;0;0;0;20;10;15;0;5;0;0;0;5;10;0;0;0;0;0;0;0;0;5;5
+Bayern;Bayreuth; kreisfreie Stadt;0;0;5;5;10;10;5;0;0;0;0;0;5;10;0;0;5;0;0;0;0;0;0;5
+Bayern;Coburg; kreisfreie Stadt;0;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Hof; kreisfreie Stadt;0;0;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Bamberg; Landkreis;0;0;0;0;5;5;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Forchheim; Landkreis;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Hof; Landkreis;0;0;0;5;5;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Kulmbach; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Bayern;Wunsiedel im Fichtelgebirge; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Bayern;Ansbach; kreisfreie Stadt;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Erlangen; kreisfreie Stadt;0;0;0;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Fürth; kreisfreie Stadt;0;5;5;0;5;5;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0
+Bayern;Nürnberg; kreisfreie Stadt;0;0;65;60;15;20;0;5;5;5;5;5;5;5;0;0;20;20;0;0;0;0;10;5
+Bayern;Ansbach; Landkreis;0;0;5;0;40;10;30;5;5;0;0;0;0;5;0;0;15;5;0;0;0;0;10;0
+Bayern;Erlangen-Höchstadt; Landkreis;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Bayern;Fürth; Landkreis;0;0;0;0;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Nürnberger Land; Landkreis;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Neustadt an der Aisch-Bad Windsheim; Landkreis;0;0;5;5;5;5;0;0;5;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Weißenburg-Gunzenhausen; Landkreis;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Bayern;Aschaffenburg; kreisfreie Stadt;0;0;0;5;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Schweinfurt; kreisfreie Stadt;0;0;0;5;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Würzburg; kreisfreie Stadt;0;0;5;5;15;5;10;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Aschaffenburg; Landkreis;0;0;0;5;10;5;5;0;0;0;5;0;0;0;0;0;5;0;0;0;0;0;0;0
+Bayern;Bad Kissingen; Landkreis;0;0;10;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Haßberge; Landkreis;0;0;0;0;10;5;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Miltenberg; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Schweinfurt; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Würzburg; Landkreis;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+Bayern;Augsburg; kreisfreie Stadt;0;0;25;30;35;25;10;0;5;5;0;5;15;15;0;0;5;5;0;0;0;0;5;0
+Bayern;Kempten (Allgäu); kreisfreie Stadt;0;0;0;0;5;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Bayern;Memmingen; kreisfreie Stadt;0;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Aichach-Friedberg; Landkreis;0;0;0;5;5;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Augsburg; Landkreis;0;0;5;5;5;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Dillingen an der Donau; Landkreis;0;0;5;5;5;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Bayern;Günzburg; Landkreis;0;0;5;0;5;5;0;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;5;5
+Bayern;Neu-Ulm; Landkreis;0;0;5;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Lindau (Bodensee); Landkreis;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Ostallgäu; Landkreis;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Unterallgäu; Landkreis;0;0;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bayern;Donau-Ries; Landkreis;0;0;0;5;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;5
+Bayern;Oberallgäu; Landkreis;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;5;5;0;0;0;0;0;0
+Saarland;Saarlouis; Landkreis;0;0;20;35;25;25;5;5;5;0;0;5;10;10;0;0;5;0;0;0;5;0;5;5
+Berlin;Berlin; kreisfreie Stadt;0;5;105;155;245;220;95;40;55;40;35;20;60;110;5;5;25;15;0;5;0;0;40;30
+Brandenburg;Brandenburg an der Havel; kreisfreie Stadt;0;0;0;5;0;5;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Brandenburg;Cottbus; kreisfreie Stadt;0;0;15;10;25;25;5;0;10;0;0;0;10;20;0;0;0;0;0;0;0;0;5;0
+Brandenburg;Frankfurt (Oder); kreisfreie Stadt;0;0;5;5;15;10;15;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30;0
+Brandenburg;Potsdam; kreisfreie Stadt;0;0;5;5;10;5;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;5;5
+Brandenburg;Barnim; Landkreis;0;0;5;5;5;5;0;0;0;0;0;0;0;5;0;0;5;0;0;0;0;0;0;5
+Brandenburg;Dahme-Spreewald; Landkreis;0;0;5;5;10;10;0;0;5;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Brandenburg;Havelland; Landkreis;0;0;0;0;5;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0
+Brandenburg;Märkisch-Oderland; Landkreis;0;0;0;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Brandenburg;Oberhavel; Landkreis;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Brandenburg;Ostprignitz-Ruppin; Landkreis;0;0;0;0;5;5;0;0;5;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Brandenburg;Potsdam-Mittelmark; Landkreis;0;0;0;5;10;0;5;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Brandenburg;Prignitz; Landkreis;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Brandenburg;Teltow-Fläming; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Brandenburg;Uckermark; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mecklenburg-Vorpommern;Rostock; kreisfreie Stadt;0;0;10;10;5;5;0;0;0;0;0;5;0;0;0;0;5;0;5;5;0;0;5;5
+Mecklenburg-Vorpommern;Schwerin; kreisfreie Stadt;0;0;10;15;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Mecklenburg-Vorpommern;Mecklenburgische Seenplatte; Landkreis;0;0;0;0;0;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0
+Mecklenburg-Vorpommern;Rostock; Landkreis;0;0;0;0;5;5;5;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Mecklenburg-Vorpommern;Vorpommern-Rügen; Landkreis;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Mecklenburg-Vorpommern;Nordwestmecklenburg; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Mecklenburg-Vorpommern;Vorpommern-Greifswald; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Sachsen;Chemnitz; kreisfreie Stadt;0;0;15;20;10;10;0;0;0;0;5;5;5;5;0;0;5;0;0;0;0;0;0;0
+Sachsen;Mittelsachsen; Landkreis;0;0;0;0;10;5;5;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Sachsen;Zwickau; Landkreis;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sachsen;Dresden; kreisfreie Stadt;0;0;25;35;25;25;15;15;5;0;5;5;5;10;0;0;5;5;0;0;0;0;25;5
+Sachsen;Bautzen; Landkreis;0;0;0;5;15;5;0;0;10;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0
+Sachsen;Görlitz; Landkreis;0;0;0;0;0;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;5;0
+Sachsen;Sächsische Schweiz-Osterzgebirge; Landkreis;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sachsen;Leipzig; kreisfreie Stadt;5;5;35;50;35;25;20;10;5;5;5;5;0;10;5;0;15;15;0;0;0;0;5;0
+Sachsen;Leipzig; Landkreis;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sachsen-Anhalt;Dessau-Roßlau; kreisfreie Stadt;0;0;5;0;15;5;10;0;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0
+Sachsen-Anhalt;Halle (Saale); kreisfreie Stadt;0;0;10;15;105;20;65;5;25;5;5;0;5;10;0;0;10;5;0;0;0;0;25;5
+Sachsen-Anhalt;Magdeburg; kreisfreie Stadt;0;0;5;15;10;5;0;0;5;0;0;0;0;5;0;0;5;0;0;0;0;0;5;0
+Sachsen-Anhalt;Altmarkkreis Salzwedel;;0;0;0;0;5;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sachsen-Anhalt;Anhalt-Bitterfeld; Landkreis;0;0;5;0;5;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0
+Sachsen-Anhalt;Burgenlandkreis;;0;0;0;0;5;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;5;0
+Sachsen-Anhalt;Saalekreis;;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sachsen-Anhalt;Salzlandkreis;;0;0;5;5;5;5;5;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+Sachsen-Anhalt;Stendal; Landkreis;0;0;0;0;5;0;0;0;5;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Sachsen-Anhalt;Wittenberg; Landkreis;0;0;0;0;5;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+Thüringen;Erfurt; kreisfreie Stadt;0;0;10;15;10;15;5;0;0;0;5;5;0;5;0;0;0;0;0;0;0;0;0;0
+Thüringen;Jena; kreisfreie Stadt;0;0;0;10;10;10;5;5;5;0;0;0;0;5;0;0;0;5;0;0;0;0;5;5
+Thüringen;Nordhausen; Landkreis;0;0;0;0;5;5;5;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Thüringen;Schmalkalden-Meiningen; Landkreis;0;0;0;0;25;0;20;0;0;0;0;0;0;0;0;0;5;5;0;0;0;0;10;0
+Thüringen;Sömmerda; Landkreis;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Thüringen;Ilm-Kreis;;0;0;0;0;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Thüringen;Saale-Holzland-Kreis;;0;0;0;0;5;5;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;15;5
+Thüringen;Saale-Orla-Kreis;;0;0;0;0;10;5;5;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;5;0
+Thüringen;Altenburger Land; Landkreis;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
